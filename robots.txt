@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b08-bh-kb-link-1.pages.dev/sitemap.xml
+Sitemap: https://banghwa-room-choice.mapo-room-guide.xyz/sitemap.xml
